@@ -1,0 +1,272 @@
+{
+    "metadata": {
+        "context": {
+            "canonicalUrl": "https://api.bestbuy.com/beta/products/mostViewed(categoryId=abcat0502000)?apiKey=***REMOVED***"
+        },
+        "resultSet": {
+            "count": 10
+        }
+    },
+    "results": [
+        {
+            "sku": "6565862",
+            "customerReviews": {
+                "averageScore": 4.9,
+                "count": 4103
+            },
+            "descriptions": {
+                "short": null
+            },
+            "images": {
+                "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/317b99e1-058d-4162-88c9-051faf76b924.jpg"
+            },
+            "names": {
+                "title": "Apple - MacBook Air 13-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 256GB SSD - Midnight"
+            },
+            "prices": {
+                "regular": 999.0,
+                "current": 799.0
+            },
+            "links": {
+                "product": "https://api.bestbuy.com/v1/products/6565862.json?apiKey=***REMOVED***",
+                "web": "https://api.bestbuy.com/click/-/6565862/pdp",
+                "addToCart": "https://api.bestbuy.com/click/-/6565862/cart"
+            },
+            "rank": 1
+        },
+        {
+            "sku": "6637409",
+            "customerReviews": {
+                "averageScore": 4.7,
+                "count": 196
+            },
+            "descriptions": {
+                "short": null
+            },
+            "images": {
+                "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/65e71144-6e18-45bd-9181-47696a31d059.jpg"
+            },
+            "names": {
+                "title": "HP - 15.6\" Laptop - Intel Core i3 - 8GB Memory - 128GB UFS - Natural Silver"
+            },
+            "prices": {
+                "regular": 499.99,
+                "current": 219.99
+            },
+            "links": {
+                "product": "https://api.bestbuy.com/v1/products/6637409.json?apiKey=***REMOVED***",
+                "web": "https://api.bestbuy.com/click/-/6637409/pdp",
+                "addToCart": "https://api.bestbuy.com/click/-/6637409/cart"
+            },
+            "rank": 2
+        },
+        {
+            "sku": "6612253",
+            "customerReviews": {
+                "averageScore": 4.6,
+                "count": 1137
+            },
+            "descriptions": {
+                "short": null
+            },
+            "images": {
+                "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/35568c16-fd80-4de7-9c3c-dc65b09f8e4f.jpg"
+            },
+            "names": {
+                "title": "HP - 15.6\" Full HD Touch-Screen Laptop - Intel Core i7 - 16GB Memory - 512GB SSD - Natural Silver"
+            },
+            "prices": {
+                "regular": 799.99,
+                "current": 499.99
+            },
+            "links": {
+                "product": "https://api.bestbuy.com/v1/products/6612253.json?apiKey=***REMOVED***",
+                "web": "https://api.bestbuy.com/click/-/6612253/pdp",
+                "addToCart": "https://api.bestbuy.com/click/-/6612253/cart"
+            },
+            "rank": 3
+        },
+        {
+            "sku": "6642211",
+            "customerReviews": {
+                "averageScore": 0.0,
+                "count": 0
+            },
+            "descriptions": {
+                "short": null
+            },
+            "images": {
+                "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/122add69-6dbc-4884-9b7a-3a14a7cb9186.jpg"
+            },
+            "names": {
+                "title": "Dell - DC15250 - 15.6\" 2K Touchscreen Laptop - Intel Core i5 1334U 2023 - 8GB Memory - 512GB Storage - Carbon Black"
+            },
+            "prices": {
+                "regular": 629.99,
+                "current": 379.99
+            },
+            "links": {
+                "product": "https://api.bestbuy.com/v1/products/6642211.json?apiKey=***REMOVED***",
+                "web": "https://api.bestbuy.com/click/-/6642211/pdp",
+                "addToCart": "https://api.bestbuy.com/click/-/6642211/cart"
+            },
+            "rank": 4
+        },
+        {
+            "sku": "6612252",
+            "customerReviews": {
+                "averageScore": 4.6,
+                "count": 809
+            },
+            "descriptions": {
+                "short": null
+            },
+            "images": {
+                "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/6d1821a7-6381-429b-8ac5-bb6dc2bf284d.jpg"
+            },
+            "names": {
+                "title": "HP - 17.3\" Full HD Laptop - AMD Ryzen 5 - 8GB Memory - 512GB SSD - Natural Silver"
+            },
+            "prices": {
+                "regular": 629.99,
+                "current": 319.99
+            },
+            "links": {
+                "product": "https://api.bestbuy.com/v1/products/6612252.json?apiKey=***REMOVED***",
+                "web": "https://api.bestbuy.com/click/-/6612252/pdp",
+                "addToCart": "https://api.bestbuy.com/click/-/6612252/cart"
+            },
+            "rank": 5
+        },
+        {
+            "sku": "6634397",
+            "customerReviews": {
+                "averageScore": 4.8,
+                "count": 92
+            },
+            "descriptions": {
+                "short": null
+            },
+            "images": {
+                "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/67497159-188f-409b-91a7-a49a325a90f6.png"
+            },
+            "names": {
+                "title": "HP - OmniBook X Flip - Copilot+ PC - 16\" 3K OLED Touch-Screen Laptop - Intel Core Ultra 9 - 32GB Memory - 2TB SSD - Eclipse Gray"
+            },
+            "prices": {
+                "regular": 1529.99,
+                "current": 999.99
+            },
+            "links": {
+                "product": "https://api.bestbuy.com/v1/products/6634397.json?apiKey=***REMOVED***",
+                "web": "https://api.bestbuy.com/click/-/6634397/pdp",
+                "addToCart": "https://api.bestbuy.com/click/-/6634397/cart"
+            },
+            "rank": 6
+        },
+        {
+            "sku": "6614950",
+            "customerReviews": {
+                "averageScore": 4.6,
+                "count": 262
+            },
+            "descriptions": {
+                "short": null
+            },
+            "images": {
+                "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/c9d78a66-050b-46e7-8c3c-45813b80914e.jpg"
+            },
+            "names": {
+                "title": "Acer - Chromebook 315 - 15.6\" Full HD Laptop - Intel Celeron N4500 - 4GB LPDDR4X - 64GB eMMC - Protective Sleeve \u2013 Silver - Sparkly Silver"
+            },
+            "prices": {
+                "regular": 299.0,
+                "current": 119.0
+            },
+            "links": {
+                "product": "https://api.bestbuy.com/v1/products/6614950.json?apiKey=***REMOVED***",
+                "web": "https://api.bestbuy.com/click/-/6614950/pdp",
+                "addToCart": "https://api.bestbuy.com/click/-/6614950/cart"
+            },
+            "rank": 7
+        },
+        {
+            "sku": "6614107",
+            "customerReviews": {
+                "averageScore": 4.8,
+                "count": 265
+            },
+            "descriptions": {
+                "short": null
+            },
+            "images": {
+                "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/d2627df5-df42-4337-8832-b8b7d18a923a.png"
+            },
+            "names": {
+                "title": "HP - OmniBook 5 Flip 2-in-1 14\" 2K Touch-Screen Laptop - Intel Core 7 - 16GB Memory - 512GB SSD - Glacier Silver"
+            },
+            "prices": {
+                "regular": 799.99,
+                "current": 529.99
+            },
+            "links": {
+                "product": "https://api.bestbuy.com/v1/products/6614107.json?apiKey=***REMOVED***",
+                "web": "https://api.bestbuy.com/click/-/6614107/pdp",
+                "addToCart": "https://api.bestbuy.com/click/-/6614107/cart"
+            },
+            "rank": 8
+        },
+        {
+            "sku": "6565869",
+            "customerReviews": {
+                "averageScore": 4.9,
+                "count": 1172
+            },
+            "descriptions": {
+                "short": null
+            },
+            "images": {
+                "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/01867ef7-bd07-4bce-81f9-c57533d8ed55.jpg"
+            },
+            "names": {
+                "title": "Apple - MacBook Air 15-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 256GB SSD - Midnight"
+            },
+            "prices": {
+                "regular": 1199.0,
+                "current": 999.0
+            },
+            "links": {
+                "product": "https://api.bestbuy.com/v1/products/6565869.json?apiKey=***REMOVED***",
+                "web": "https://api.bestbuy.com/click/-/6565869/pdp",
+                "addToCart": "https://api.bestbuy.com/click/-/6565869/cart"
+            },
+            "rank": 9
+        },
+        {
+            "sku": "6613870",
+            "customerReviews": {
+                "averageScore": 4.7,
+                "count": 358
+            },
+            "descriptions": {
+                "short": null
+            },
+            "images": {
+                "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/9353af3d-f8f4-46f9-a48c-7c30116a9982.jpg"
+            },
+            "names": {
+                "title": "HP - OmniBook X Flip 2-in-1 - Copilot+ PC - 16\" 2K Touch-Screen Laptop - Intel Core Ultra 5 - 16GB Memory - 512GB SSD - Eclipse Gray"
+            },
+            "prices": {
+                "regular": 899.99,
+                "current": 579.99
+            },
+            "links": {
+                "product": "https://api.bestbuy.com/v1/products/6613870.json?apiKey=***REMOVED***",
+                "web": "https://api.bestbuy.com/click/-/6613870/pdp",
+                "addToCart": "https://api.bestbuy.com/click/-/6613870/cart"
+            },
+            "rank": 10
+        }
+    ]
+}

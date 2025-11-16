@@ -1,0 +1,13 @@
+
+name	
+    Product name	string
+customerReviewAverage	
+    Average “score” or ratings as submitted by reviewers	float
+customerReviewCount	
+    Number of customer reviews	integer
+customerTopRated	
+    Identifies if the product is top rated based on ratings from reviewers. If the Avg rating >= 4.5 and Qty of ratings >= 15, customerTopRated is set to be “true”, else is set to “false”	boolean
+manufacturer	
+    Product manufacturer	string
+class	
+    Class name	string

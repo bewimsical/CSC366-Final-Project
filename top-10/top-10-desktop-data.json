@@ -1,0 +1,272 @@
+{
+    "metadata": {
+        "context": {
+            "canonicalUrl": "https://api.bestbuy.com/beta/products/mostViewed(categoryId=abcat0501000)?apiKey=***REMOVED***"
+        },
+        "resultSet": {
+            "count": 10
+        }
+    },
+    "results": [
+        {
+            "sku": "6613695",
+            "customerReviews": {
+                "averageScore": 4.6,
+                "count": 450
+            },
+            "descriptions": {
+                "short": null
+            },
+            "images": {
+                "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/75f16cc5-b63b-4365-a0b7-74be469e2fdf.jpg"
+            },
+            "names": {
+                "title": "HP - OmniDesk Desktop - AMD Ryzen 7 - 16GB DDR5 Memory - 1TB SSD - Gray Wood"
+            },
+            "prices": {
+                "regular": 849.99,
+                "current": 599.99
+            },
+            "links": {
+                "product": "https://api.bestbuy.com/v1/products/6613695.json?apiKey=***REMOVED***",
+                "web": "https://api.bestbuy.com/click/-/6613695/pdp",
+                "addToCart": "https://api.bestbuy.com/click/-/6613695/cart"
+            },
+            "rank": 1
+        },
+        {
+            "sku": "6566918",
+            "customerReviews": {
+                "averageScore": 4.8,
+                "count": 847
+            },
+            "descriptions": {
+                "short": null
+            },
+            "images": {
+                "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/66230481-47f4-431f-81b3-5a25cbfd92de.jpg"
+            },
+            "names": {
+                "title": "Apple - Mac mini Desktop - Latest Model - M4 chip - Built for Apple Intelligence - 16GB Memory - 256GB SSD - Silver"
+            },
+            "prices": {
+                "regular": 599.0,
+                "current": 499.0
+            },
+            "links": {
+                "product": "https://api.bestbuy.com/v1/products/6566918.json?apiKey=***REMOVED***",
+                "web": "https://api.bestbuy.com/click/-/6566918/pdp",
+                "addToCart": "https://api.bestbuy.com/click/-/6566918/cart"
+            },
+            "rank": 2
+        },
+        {
+            "sku": "6622616",
+            "customerReviews": {
+                "averageScore": 4.6,
+                "count": 198
+            },
+            "descriptions": {
+                "short": null
+            },
+            "images": {
+                "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/405a8870-2490-4886-b6d0-2839c1837134.jpg"
+            },
+            "names": {
+                "title": "Dell - Desktop - Intel Core Ultra 7-265 - 16GB Memory - 1TB SSD - Black"
+            },
+            "prices": {
+                "regular": 899.99,
+                "current": 699.99
+            },
+            "links": {
+                "product": "https://api.bestbuy.com/v1/products/6622616.json?apiKey=***REMOVED***",
+                "web": "https://api.bestbuy.com/click/-/6622616/pdp",
+                "addToCart": "https://api.bestbuy.com/click/-/6622616/cart"
+            },
+            "rank": 3
+        },
+        {
+            "sku": "6622619",
+            "customerReviews": {
+                "averageScore": 4.7,
+                "count": 123
+            },
+            "descriptions": {
+                "short": null
+            },
+            "images": {
+                "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/a0ac5d7e-e3a7-4aea-ba2c-ba6bb050357e.jpg"
+            },
+            "names": {
+                "title": "Dell - Desktop - Intel Core Ultra 5 225 - 16GB Memory - 1TB SDD - Black"
+            },
+            "prices": {
+                "regular": 799.99,
+                "current": 549.99
+            },
+            "links": {
+                "product": "https://api.bestbuy.com/v1/products/6622619.json?apiKey=***REMOVED***",
+                "web": "https://api.bestbuy.com/click/-/6622619/pdp",
+                "addToCart": "https://api.bestbuy.com/click/-/6622619/cart"
+            },
+            "rank": 4
+        },
+        {
+            "sku": "6613697",
+            "customerReviews": {
+                "averageScore": 4.7,
+                "count": 293
+            },
+            "descriptions": {
+                "short": null
+            },
+            "images": {
+                "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/dc078f84-2d5d-4146-b9f7-a1120c27f78c.jpg"
+            },
+            "names": {
+                "title": "HP - OmniDesk Desktop - AMD Ryzen 5 - 16GB DDR5 Memory - 512GB SSD - Gray Wood"
+            },
+            "prices": {
+                "regular": 719.99,
+                "current": 449.99
+            },
+            "links": {
+                "product": "https://api.bestbuy.com/v1/products/6613697.json?apiKey=***REMOVED***",
+                "web": "https://api.bestbuy.com/click/-/6613697/pdp",
+                "addToCart": "https://api.bestbuy.com/click/-/6613697/cart"
+            },
+            "rank": 5
+        },
+        {
+            "sku": "6615251",
+            "customerReviews": {
+                "averageScore": 4.7,
+                "count": 131
+            },
+            "descriptions": {
+                "short": null
+            },
+            "images": {
+                "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/cc04336d-0ea5-4e9c-9c34-e0f07e18606e.jpg"
+            },
+            "names": {
+                "title": "HP - 23.8\" Full HD Touch-Screen All-in-One - Intel Core i3 - 8GB Memory - 512GB SSD - Shell White"
+            },
+            "prices": {
+                "regular": 699.99,
+                "current": 499.99
+            },
+            "links": {
+                "product": "https://api.bestbuy.com/v1/products/6615251.json?apiKey=***REMOVED***",
+                "web": "https://api.bestbuy.com/click/-/6615251/pdp",
+                "addToCart": "https://api.bestbuy.com/click/-/6615251/cart"
+            },
+            "rank": 6
+        },
+        {
+            "sku": "6467298",
+            "customerReviews": {
+                "averageScore": 4.8,
+                "count": 660
+            },
+            "descriptions": {
+                "short": null
+            },
+            "images": {
+                "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/2d7c37e7-4fc6-4637-8614-d788c2c7ec45.jpg"
+            },
+            "names": {
+                "title": "Apple - iMac 24-inch All-in-One - M4 chip - Built for Apple Intelligence - 8 Core CPU - 8 Core GPU - 16GB Memory - 256GB SSD - Silver"
+            },
+            "prices": {
+                "regular": 1299.0,
+                "current": 1299.0
+            },
+            "links": {
+                "product": "https://api.bestbuy.com/v1/products/6467298.json?apiKey=***REMOVED***",
+                "web": "https://api.bestbuy.com/click/-/6467298/pdp",
+                "addToCart": "https://api.bestbuy.com/click/-/6467298/cart"
+            },
+            "rank": 7
+        },
+        {
+            "sku": "6615250",
+            "customerReviews": {
+                "averageScore": 4.8,
+                "count": 128
+            },
+            "descriptions": {
+                "short": null
+            },
+            "images": {
+                "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/999c692d-bc3f-4574-b750-03f057e8286c.jpg"
+            },
+            "names": {
+                "title": "HP - 23.8\" Full HD Touch-Screen All-in-One with Adjustable Height - Intel Core i5 - 8GB Memory - 512GB SSD - Shell White"
+            },
+            "prices": {
+                "regular": 799.99,
+                "current": 599.99
+            },
+            "links": {
+                "product": "https://api.bestbuy.com/v1/products/6615250.json?apiKey=***REMOVED***",
+                "web": "https://api.bestbuy.com/click/-/6615250/pdp",
+                "addToCart": "https://api.bestbuy.com/click/-/6615250/cart"
+            },
+            "rank": 8
+        },
+        {
+            "sku": "6636736",
+            "customerReviews": {
+                "averageScore": 5.0,
+                "count": 2
+            },
+            "descriptions": {
+                "short": null
+            },
+            "images": {
+                "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/b7ca2702-d02a-4399-b37c-655cccbcf1b4.jpg"
+            },
+            "names": {
+                "title": "HP - 21.5\" All-in-One - Intel N100 - 8GB Memory - 128GB UFS - Cashmere White"
+            },
+            "prices": {
+                "regular": 419.99,
+                "current": 319.99
+            },
+            "links": {
+                "product": "https://api.bestbuy.com/v1/products/6636736.json?apiKey=***REMOVED***",
+                "web": "https://api.bestbuy.com/click/-/6636736/pdp",
+                "addToCart": "https://api.bestbuy.com/click/-/6636736/cart"
+            },
+            "rank": 9
+        },
+        {
+            "sku": "6618852",
+            "customerReviews": {
+                "averageScore": 4.7,
+                "count": 18
+            },
+            "descriptions": {
+                "short": null
+            },
+            "images": {
+                "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/3258c68c-a5c6-4cfd-82ca-1393de4449d4.jpg"
+            },
+            "names": {
+                "title": "Lenovo - IdeaCentre Mini Desktop - Intel Core 7 Processor 240H - 16GB Memory - 512GB SSD - Luna Grey"
+            },
+            "prices": {
+                "regular": 849.99,
+                "current": 599.99
+            },
+            "links": {
+                "product": "https://api.bestbuy.com/v1/products/6618852.json?apiKey=***REMOVED***",
+                "web": "https://api.bestbuy.com/click/-/6618852/pdp",
+                "addToCart": "https://api.bestbuy.com/click/-/6618852/cart"
+            },
+            "rank": 10
+        }
+    ]
+}

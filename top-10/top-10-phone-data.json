@@ -1,0 +1,272 @@
+{
+    "metadata": {
+        "context": {
+            "canonicalUrl": "https://api.bestbuy.com/beta/products/mostViewed(categoryId=pcmcat209400050001)?apiKey=***REMOVED***"
+        },
+        "resultSet": {
+            "count": 10
+        }
+    },
+    "results": [
+        {
+            "sku": "6573522",
+            "customerReviews": {
+                "averageScore": 3.4,
+                "count": 5
+            },
+            "descriptions": {
+                "short": null
+            },
+            "images": {
+                "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/6009/6009962_sd.jpg"
+            },
+            "names": {
+                "title": "Apple - Geek Squad Certified Refurbished iPhone 12 Pro Max 5G 128GB - Gold (Verizon)"
+            },
+            "prices": {
+                "regular": 1099.99,
+                "current": 335.97
+            },
+            "links": {
+                "product": "https://api.bestbuy.com/v1/products/6573522.json?apiKey=***REMOVED***",
+                "web": "https://api.bestbuy.com/click/-/6573522/pdp",
+                "addToCart": "https://api.bestbuy.com/click/-/6573522/cart"
+            },
+            "rank": 1
+        },
+        {
+            "sku": "6647901",
+            "customerReviews": {
+                "averageScore": 0.0,
+                "count": 0
+            },
+            "descriptions": {
+                "short": null
+            },
+            "images": {
+                "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/9b0089c8-84eb-41e7-97b6-aa40eb4ff8c1.jpg"
+            },
+            "names": {
+                "title": "Motorola - razr+ 2025 256GB - Midnight Blue (AT&T)"
+            },
+            "prices": {
+                "regular": 999.99,
+                "current": 999.99
+            },
+            "links": {
+                "product": "https://api.bestbuy.com/v1/products/6647901.json?apiKey=***REMOVED***",
+                "web": "https://api.bestbuy.com/click/-/6647901/pdp",
+                "addToCart": "https://api.bestbuy.com/click/-/6647901/cart"
+            },
+            "rank": 2
+        },
+        {
+            "sku": "6647902",
+            "customerReviews": {
+                "averageScore": 0.0,
+                "count": 0
+            },
+            "descriptions": {
+                "short": null
+            },
+            "images": {
+                "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/a33125dc-485f-42cf-a5f3-48a2d2c070e4.jpg"
+            },
+            "names": {
+                "title": "Motorola - moto g stylus 5G - 2025 128GB - Gibraltar Sea (AT&T)"
+            },
+            "prices": {
+                "regular": 294.99,
+                "current": 294.99
+            },
+            "links": {
+                "product": "https://api.bestbuy.com/v1/products/6647902.json?apiKey=***REMOVED***",
+                "web": "https://api.bestbuy.com/click/-/6647902/pdp",
+                "addToCart": "https://api.bestbuy.com/click/-/6647902/cart"
+            },
+            "rank": 3
+        },
+        {
+            "sku": "6643797",
+            "customerReviews": {
+                "averageScore": 5.0,
+                "count": 1
+            },
+            "descriptions": {
+                "short": null
+            },
+            "images": {
+                "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/b100f650-f6f3-4c1c-b6d0-da8110d8975d.jpg"
+            },
+            "names": {
+                "title": "Google - Pixel 10 Pro XL 256GB (Verizon) - Obsidian"
+            },
+            "prices": {
+                "regular": 1199.99,
+                "current": 1199.99
+            },
+            "links": {
+                "product": "https://api.bestbuy.com/v1/products/6643797.json?apiKey=***REMOVED***",
+                "web": "https://api.bestbuy.com/click/-/6643797/pdp",
+                "addToCart": "https://api.bestbuy.com/click/-/6643797/cart"
+            },
+            "rank": 4
+        },
+        {
+            "sku": "6645943",
+            "customerReviews": {
+                "averageScore": 0.0,
+                "count": 0
+            },
+            "descriptions": {
+                "short": null
+            },
+            "images": {
+                "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/b100f650-f6f3-4c1c-b6d0-da8110d8975d.jpg"
+            },
+            "names": {
+                "title": "Google - Pixel 10 Pro XL 256GB - Obsidian (AT&T)"
+            },
+            "prices": {
+                "regular": 1249.99,
+                "current": 1249.99
+            },
+            "links": {
+                "product": "https://api.bestbuy.com/v1/products/6645943.json?apiKey=***REMOVED***",
+                "web": "https://api.bestbuy.com/click/-/6645943/pdp",
+                "addToCart": "https://api.bestbuy.com/click/-/6645943/cart"
+            },
+            "rank": 5
+        },
+        {
+            "sku": "6643795",
+            "customerReviews": {
+                "averageScore": 5.0,
+                "count": 1
+            },
+            "descriptions": {
+                "short": null
+            },
+            "images": {
+                "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/b100f650-f6f3-4c1c-b6d0-da8110d8975d.jpg"
+            },
+            "names": {
+                "title": "Google - Pixel 10 Pro 128GB (Verizon) - Obsidian"
+            },
+            "prices": {
+                "regular": 999.99,
+                "current": 999.99
+            },
+            "links": {
+                "product": "https://api.bestbuy.com/v1/products/6643795.json?apiKey=***REMOVED***",
+                "web": "https://api.bestbuy.com/click/-/6643795/pdp",
+                "addToCart": "https://api.bestbuy.com/click/-/6643795/cart"
+            },
+            "rank": 6
+        },
+        {
+            "sku": "6473025",
+            "customerReviews": {
+                "averageScore": 4.8,
+                "count": 85
+            },
+            "descriptions": {
+                "short": null
+            },
+            "images": {
+                "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/cfd1e0aa-38c1-4986-b62c-752dc21268a3.jpg"
+            },
+            "names": {
+                "title": "Apple - iPhone 17 Pro Max 256GB - Cosmic Orange (AT&T)"
+            },
+            "prices": {
+                "regular": 1199.99,
+                "current": 1199.99
+            },
+            "links": {
+                "product": "https://api.bestbuy.com/v1/products/6473025.json?apiKey=***REMOVED***",
+                "web": "https://api.bestbuy.com/click/-/6473025/pdp",
+                "addToCart": "https://api.bestbuy.com/click/-/6473025/cart"
+            },
+            "rank": 7
+        },
+        {
+            "sku": "6645947",
+            "customerReviews": {
+                "averageScore": 0.0,
+                "count": 0
+            },
+            "descriptions": {
+                "short": null
+            },
+            "images": {
+                "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/b100f650-f6f3-4c1c-b6d0-da8110d8975d.jpg"
+            },
+            "names": {
+                "title": "Google - Pixel 10 Pro 128GB - Obsidian (AT&T)"
+            },
+            "prices": {
+                "regular": 1049.99,
+                "current": 1049.99
+            },
+            "links": {
+                "product": "https://api.bestbuy.com/v1/products/6645947.json?apiKey=***REMOVED***",
+                "web": "https://api.bestbuy.com/click/-/6645947/pdp",
+                "addToCart": "https://api.bestbuy.com/click/-/6645947/cart"
+            },
+            "rank": 8
+        },
+        {
+            "sku": "6643794",
+            "customerReviews": {
+                "averageScore": 0.0,
+                "count": 0
+            },
+            "descriptions": {
+                "short": null
+            },
+            "images": {
+                "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/a17317de-2efa-4f54-9793-87e1888cceea.jpg"
+            },
+            "names": {
+                "title": "Google - Pixel 10 128GB (Verizon) - Obsidian"
+            },
+            "prices": {
+                "regular": 799.99,
+                "current": 799.99
+            },
+            "links": {
+                "product": "https://api.bestbuy.com/v1/products/6643794.json?apiKey=***REMOVED***",
+                "web": "https://api.bestbuy.com/click/-/6643794/pdp",
+                "addToCart": "https://api.bestbuy.com/click/-/6643794/cart"
+            },
+            "rank": 9
+        },
+        {
+            "sku": "6418061",
+            "customerReviews": {
+                "averageScore": 4.9,
+                "count": 46
+            },
+            "descriptions": {
+                "short": null
+            },
+            "images": {
+                "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/089ca27b-2d32-4acf-813c-c392439f3e78.jpg"
+            },
+            "names": {
+                "title": "Apple - iPhone 17 Pro 256GB - Silver (AT&T)"
+            },
+            "prices": {
+                "regular": 1099.99,
+                "current": 1099.99
+            },
+            "links": {
+                "product": "https://api.bestbuy.com/v1/products/6418061.json?apiKey=***REMOVED***",
+                "web": "https://api.bestbuy.com/click/-/6418061/pdp",
+                "addToCart": "https://api.bestbuy.com/click/-/6418061/cart"
+            },
+            "rank": 10
+        }
+    ]
+}
