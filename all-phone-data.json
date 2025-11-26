@@ -1,14 +1,4 @@
-{
-    "from": 1,
-    "to": 16,
-    "currentPage": 1,
-    "total": 16,
-    "totalPages": 1,
-    "queryTime": "0.008",
-    "totalTime": "0.029",
-    "partial": false,
-    "canonicalUrl": "/v1/products((categoryPath.id=pcmcat209400050001))?pageSize=100&format=json&apiKey=***REMOVED***",
-    "products": [
+ [
         {
             "sku": 6255530,
             "score": null,
@@ -10529,4 +10519,3 @@
             "serviceProvider": "AT&T"
         }
     ]
-}
