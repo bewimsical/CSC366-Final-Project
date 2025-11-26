@@ -1,4 +1,4 @@
-itemNumber,class,name,customerReviewAverage,customerReviewCount,customerTopRated,modelNumber,price,manufacturer,isRefurbished
+itemNumber,class,name,customerReviewAverage,customerReviewCount,customerTopRated,modelNumber,salePrice,manufacturer,isRefurbished
 83-360-831,Desktop PC,ABS Cyclone Aqua Gaming PC - Windows 11 - Intel Core i5-14400F - GeForce RTX 5060 - DLSS 4 - AI-Powered Performance - 32GB DDR4 3200MHz - 1TB M.2 NVMe SSD - CA14400F5060,4.6,275,True,CA14400F5060,799.99,ABS,False
 83-360-849,Desktop PC,ABS Eurus Aqua Gaming PC - Windows 11 - Intel Core i9-14900KF - GeForce RTX 5070 Ti -  DLSS 4 - AI-Powered Performance - 32GB DDR5 6400 - 2TB M.2 NVMe SSD - EA14900KF5070TI2,4.4,161,False,EA14900KF5070TI2,1849.99,ABS,False
 9SIC01CKMH7710,Desktop PC,"AOACE Gaming PC Desktop AMD Ryzen 7 5700X,RTX 5060 8G  32GB RAM and 1TB NVMe M.2 SSD, WiFi6E, ARGB Fan, Game Design Office console,Sea View Room Windows 11",4.7,892,True,R7 5700X-RTX568-D432G-1T,889.0,AOACE,False
