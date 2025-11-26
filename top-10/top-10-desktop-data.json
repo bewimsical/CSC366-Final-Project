@@ -1,13 +1,5 @@
-{
-    "metadata": {
-        "context": {
-            "canonicalUrl": "https://api.bestbuy.com/beta/products/mostViewed(categoryId=abcat0501000)?apiKey=***REMOVED***"
-        },
-        "resultSet": {
-            "count": 10
-        }
-    },
-    "results": [
+
+ [
         {
             "sku": "6613695",
             "customerReviews": {
@@ -269,4 +261,3 @@
             "rank": 10
         }
     ]
-}

@@ -1,13 +1,4 @@
-{
-    "metadata": {
-        "context": {
-            "canonicalUrl": "https://api.bestbuy.com/beta/products/mostViewed(categoryId=pcmcat209400050001)?apiKey=***REMOVED***"
-        },
-        "resultSet": {
-            "count": 10
-        }
-    },
-    "results": [
+[
         {
             "sku": "6573522",
             "customerReviews": {
@@ -269,4 +260,3 @@
             "rank": 10
         }
     ]
-}
