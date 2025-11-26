@@ -11,3 +11,5 @@ manufacturer
     Product manufacturer	string
 class	
     Class name	string
+modelNumber	
+    Manufacturer product model number	string
