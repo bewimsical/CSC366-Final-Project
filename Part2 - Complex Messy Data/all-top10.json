@@ -1,0 +1,782 @@
+[
+    {
+        "sku": "6613695",
+        "customerReviews": {
+            "averageScore": 4.6,
+            "count": 450
+        },
+        "descriptions": {
+            "short": null
+        },
+        "images": {
+            "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/75f16cc5-b63b-4365-a0b7-74be469e2fdf.jpg"
+        },
+        "names": {
+            "title": "HP - OmniDesk Desktop - AMD Ryzen 7 - 16GB DDR5 Memory - 1TB SSD - Gray Wood"
+        },
+        "prices": {
+            "regular": 849.99,
+            "current": 599.99
+        },
+        "links": {
+            "product": "https://api.bestbuy.com/v1/products/6613695.json?apiKey=***REMOVED***",
+            "web": "https://api.bestbuy.com/click/-/6613695/pdp",
+            "addToCart": "https://api.bestbuy.com/click/-/6613695/cart"
+        },
+        "rank": 1
+    },
+    {
+        "sku": "6566918",
+        "customerReviews": {
+            "averageScore": 4.8,
+            "count": 847
+        },
+        "descriptions": {
+            "short": null
+        },
+        "images": {
+            "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/66230481-47f4-431f-81b3-5a25cbfd92de.jpg"
+        },
+        "names": {
+            "title": "Apple - Mac mini Desktop - Latest Model - M4 chip - Built for Apple Intelligence - 16GB Memory - 256GB SSD - Silver"
+        },
+        "prices": {
+            "regular": 599.0,
+            "current": 499.0
+        },
+        "links": {
+            "product": "https://api.bestbuy.com/v1/products/6566918.json?apiKey=***REMOVED***",
+            "web": "https://api.bestbuy.com/click/-/6566918/pdp",
+            "addToCart": "https://api.bestbuy.com/click/-/6566918/cart"
+        },
+        "rank": 2
+    },
+    {
+        "sku": "6622616",
+        "customerReviews": {
+            "averageScore": 4.6,
+            "count": 198
+        },
+        "descriptions": {
+            "short": null
+        },
+        "images": {
+            "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/405a8870-2490-4886-b6d0-2839c1837134.jpg"
+        },
+        "names": {
+            "title": "Dell - Desktop - Intel Core Ultra 7-265 - 16GB Memory - 1TB SSD - Black"
+        },
+        "prices": {
+            "regular": 899.99,
+            "current": 699.99
+        },
+        "links": {
+            "product": "https://api.bestbuy.com/v1/products/6622616.json?apiKey=***REMOVED***",
+            "web": "https://api.bestbuy.com/click/-/6622616/pdp",
+            "addToCart": "https://api.bestbuy.com/click/-/6622616/cart"
+        },
+        "rank": 3
+    },
+    {
+        "sku": "6622619",
+        "customerReviews": {
+            "averageScore": 4.7,
+            "count": 123
+        },
+        "descriptions": {
+            "short": null
+        },
+        "images": {
+            "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/a0ac5d7e-e3a7-4aea-ba2c-ba6bb050357e.jpg"
+        },
+        "names": {
+            "title": "Dell - Desktop - Intel Core Ultra 5 225 - 16GB Memory - 1TB SDD - Black"
+        },
+        "prices": {
+            "regular": 799.99,
+            "current": 549.99
+        },
+        "links": {
+            "product": "https://api.bestbuy.com/v1/products/6622619.json?apiKey=***REMOVED***",
+            "web": "https://api.bestbuy.com/click/-/6622619/pdp",
+            "addToCart": "https://api.bestbuy.com/click/-/6622619/cart"
+        },
+        "rank": 4
+    },
+    {
+        "sku": "6613697",
+        "customerReviews": {
+            "averageScore": 4.7,
+            "count": 293
+        },
+        "descriptions": {
+            "short": null
+        },
+        "images": {
+            "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/dc078f84-2d5d-4146-b9f7-a1120c27f78c.jpg"
+        },
+        "names": {
+            "title": "HP - OmniDesk Desktop - AMD Ryzen 5 - 16GB DDR5 Memory - 512GB SSD - Gray Wood"
+        },
+        "prices": {
+            "regular": 719.99,
+            "current": 449.99
+        },
+        "links": {
+            "product": "https://api.bestbuy.com/v1/products/6613697.json?apiKey=***REMOVED***",
+            "web": "https://api.bestbuy.com/click/-/6613697/pdp",
+            "addToCart": "https://api.bestbuy.com/click/-/6613697/cart"
+        },
+        "rank": 5
+    },
+    {
+        "sku": "6615251",
+        "customerReviews": {
+            "averageScore": 4.7,
+            "count": 131
+        },
+        "descriptions": {
+            "short": null
+        },
+        "images": {
+            "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/cc04336d-0ea5-4e9c-9c34-e0f07e18606e.jpg"
+        },
+        "names": {
+            "title": "HP - 23.8\" Full HD Touch-Screen All-in-One - Intel Core i3 - 8GB Memory - 512GB SSD - Shell White"
+        },
+        "prices": {
+            "regular": 699.99,
+            "current": 499.99
+        },
+        "links": {
+            "product": "https://api.bestbuy.com/v1/products/6615251.json?apiKey=***REMOVED***",
+            "web": "https://api.bestbuy.com/click/-/6615251/pdp",
+            "addToCart": "https://api.bestbuy.com/click/-/6615251/cart"
+        },
+        "rank": 6
+    },
+    {
+        "sku": "6467298",
+        "customerReviews": {
+            "averageScore": 4.8,
+            "count": 660
+        },
+        "descriptions": {
+            "short": null
+        },
+        "images": {
+            "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/2d7c37e7-4fc6-4637-8614-d788c2c7ec45.jpg"
+        },
+        "names": {
+            "title": "Apple - iMac 24-inch All-in-One - M4 chip - Built for Apple Intelligence - 8 Core CPU - 8 Core GPU - 16GB Memory - 256GB SSD - Silver"
+        },
+        "prices": {
+            "regular": 1299.0,
+            "current": 1299.0
+        },
+        "links": {
+            "product": "https://api.bestbuy.com/v1/products/6467298.json?apiKey=***REMOVED***",
+            "web": "https://api.bestbuy.com/click/-/6467298/pdp",
+            "addToCart": "https://api.bestbuy.com/click/-/6467298/cart"
+        },
+        "rank": 7
+    },
+    {
+        "sku": "6615250",
+        "customerReviews": {
+            "averageScore": 4.8,
+            "count": 128
+        },
+        "descriptions": {
+            "short": null
+        },
+        "images": {
+            "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/999c692d-bc3f-4574-b750-03f057e8286c.jpg"
+        },
+        "names": {
+            "title": "HP - 23.8\" Full HD Touch-Screen All-in-One with Adjustable Height - Intel Core i5 - 8GB Memory - 512GB SSD - Shell White"
+        },
+        "prices": {
+            "regular": 799.99,
+            "current": 599.99
+        },
+        "links": {
+            "product": "https://api.bestbuy.com/v1/products/6615250.json?apiKey=***REMOVED***",
+            "web": "https://api.bestbuy.com/click/-/6615250/pdp",
+            "addToCart": "https://api.bestbuy.com/click/-/6615250/cart"
+        },
+        "rank": 8
+    },
+    {
+        "sku": "6636736",
+        "customerReviews": {
+            "averageScore": 5.0,
+            "count": 2
+        },
+        "descriptions": {
+            "short": null
+        },
+        "images": {
+            "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/b7ca2702-d02a-4399-b37c-655cccbcf1b4.jpg"
+        },
+        "names": {
+            "title": "HP - 21.5\" All-in-One - Intel N100 - 8GB Memory - 128GB UFS - Cashmere White"
+        },
+        "prices": {
+            "regular": 419.99,
+            "current": 319.99
+        },
+        "links": {
+            "product": "https://api.bestbuy.com/v1/products/6636736.json?apiKey=***REMOVED***",
+            "web": "https://api.bestbuy.com/click/-/6636736/pdp",
+            "addToCart": "https://api.bestbuy.com/click/-/6636736/cart"
+        },
+        "rank": 9
+    },
+    {
+        "sku": "6618852",
+        "customerReviews": {
+            "averageScore": 4.7,
+            "count": 18
+        },
+        "descriptions": {
+            "short": null
+        },
+        "images": {
+            "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/3258c68c-a5c6-4cfd-82ca-1393de4449d4.jpg"
+        },
+        "names": {
+            "title": "Lenovo - IdeaCentre Mini Desktop - Intel Core 7 Processor 240H - 16GB Memory - 512GB SSD - Luna Grey"
+        },
+        "prices": {
+            "regular": 849.99,
+            "current": 599.99
+        },
+        "links": {
+            "product": "https://api.bestbuy.com/v1/products/6618852.json?apiKey=***REMOVED***",
+            "web": "https://api.bestbuy.com/click/-/6618852/pdp",
+            "addToCart": "https://api.bestbuy.com/click/-/6618852/cart"
+        },
+        "rank": 10
+    },
+    {
+        "sku": "6573522",
+        "customerReviews": {
+            "averageScore": 3.4,
+            "count": 5
+        },
+        "descriptions": {
+            "short": null
+        },
+        "images": {
+            "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/6009/6009962_sd.jpg"
+        },
+        "names": {
+            "title": "Apple - Geek Squad Certified Refurbished iPhone 12 Pro Max 5G 128GB - Gold (Verizon)"
+        },
+        "prices": {
+            "regular": 1099.99,
+            "current": 335.97
+        },
+        "links": {
+            "product": "https://api.bestbuy.com/v1/products/6573522.json?apiKey=***REMOVED***",
+            "web": "https://api.bestbuy.com/click/-/6573522/pdp",
+            "addToCart": "https://api.bestbuy.com/click/-/6573522/cart"
+        },
+        "rank": 1
+    },
+    {
+        "sku": "6647901",
+        "customerReviews": {
+            "averageScore": 0.0,
+            "count": 0
+        },
+        "descriptions": {
+            "short": null
+        },
+        "images": {
+            "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/9b0089c8-84eb-41e7-97b6-aa40eb4ff8c1.jpg"
+        },
+        "names": {
+            "title": "Motorola - razr+ 2025 256GB - Midnight Blue (AT&T)"
+        },
+        "prices": {
+            "regular": 999.99,
+            "current": 999.99
+        },
+        "links": {
+            "product": "https://api.bestbuy.com/v1/products/6647901.json?apiKey=***REMOVED***",
+            "web": "https://api.bestbuy.com/click/-/6647901/pdp",
+            "addToCart": "https://api.bestbuy.com/click/-/6647901/cart"
+        },
+        "rank": 2
+    },
+    {
+        "sku": "6647902",
+        "customerReviews": {
+            "averageScore": 0.0,
+            "count": 0
+        },
+        "descriptions": {
+            "short": null
+        },
+        "images": {
+            "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/a33125dc-485f-42cf-a5f3-48a2d2c070e4.jpg"
+        },
+        "names": {
+            "title": "Motorola - moto g stylus 5G - 2025 128GB - Gibraltar Sea (AT&T)"
+        },
+        "prices": {
+            "regular": 294.99,
+            "current": 294.99
+        },
+        "links": {
+            "product": "https://api.bestbuy.com/v1/products/6647902.json?apiKey=***REMOVED***",
+            "web": "https://api.bestbuy.com/click/-/6647902/pdp",
+            "addToCart": "https://api.bestbuy.com/click/-/6647902/cart"
+        },
+        "rank": 3
+    },
+    {
+        "sku": "6643797",
+        "customerReviews": {
+            "averageScore": 5.0,
+            "count": 1
+        },
+        "descriptions": {
+            "short": null
+        },
+        "images": {
+            "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/b100f650-f6f3-4c1c-b6d0-da8110d8975d.jpg"
+        },
+        "names": {
+            "title": "Google - Pixel 10 Pro XL 256GB (Verizon) - Obsidian"
+        },
+        "prices": {
+            "regular": 1199.99,
+            "current": 1199.99
+        },
+        "links": {
+            "product": "https://api.bestbuy.com/v1/products/6643797.json?apiKey=***REMOVED***",
+            "web": "https://api.bestbuy.com/click/-/6643797/pdp",
+            "addToCart": "https://api.bestbuy.com/click/-/6643797/cart"
+        },
+        "rank": 4
+    },
+    {
+        "sku": "6645943",
+        "customerReviews": {
+            "averageScore": 0.0,
+            "count": 0
+        },
+        "descriptions": {
+            "short": null
+        },
+        "images": {
+            "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/b100f650-f6f3-4c1c-b6d0-da8110d8975d.jpg"
+        },
+        "names": {
+            "title": "Google - Pixel 10 Pro XL 256GB - Obsidian (AT&T)"
+        },
+        "prices": {
+            "regular": 1249.99,
+            "current": 1249.99
+        },
+        "links": {
+            "product": "https://api.bestbuy.com/v1/products/6645943.json?apiKey=***REMOVED***",
+            "web": "https://api.bestbuy.com/click/-/6645943/pdp",
+            "addToCart": "https://api.bestbuy.com/click/-/6645943/cart"
+        },
+        "rank": 5
+    },
+    {
+        "sku": "6643795",
+        "customerReviews": {
+            "averageScore": 5.0,
+            "count": 1
+        },
+        "descriptions": {
+            "short": null
+        },
+        "images": {
+            "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/b100f650-f6f3-4c1c-b6d0-da8110d8975d.jpg"
+        },
+        "names": {
+            "title": "Google - Pixel 10 Pro 128GB (Verizon) - Obsidian"
+        },
+        "prices": {
+            "regular": 999.99,
+            "current": 999.99
+        },
+        "links": {
+            "product": "https://api.bestbuy.com/v1/products/6643795.json?apiKey=***REMOVED***",
+            "web": "https://api.bestbuy.com/click/-/6643795/pdp",
+            "addToCart": "https://api.bestbuy.com/click/-/6643795/cart"
+        },
+        "rank": 6
+    },
+    {
+        "sku": "6473025",
+        "customerReviews": {
+            "averageScore": 4.8,
+            "count": 85
+        },
+        "descriptions": {
+            "short": null
+        },
+        "images": {
+            "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/cfd1e0aa-38c1-4986-b62c-752dc21268a3.jpg"
+        },
+        "names": {
+            "title": "Apple - iPhone 17 Pro Max 256GB - Cosmic Orange (AT&T)"
+        },
+        "prices": {
+            "regular": 1199.99,
+            "current": 1199.99
+        },
+        "links": {
+            "product": "https://api.bestbuy.com/v1/products/6473025.json?apiKey=***REMOVED***",
+            "web": "https://api.bestbuy.com/click/-/6473025/pdp",
+            "addToCart": "https://api.bestbuy.com/click/-/6473025/cart"
+        },
+        "rank": 7
+    },
+    {
+        "sku": "6645947",
+        "customerReviews": {
+            "averageScore": 0.0,
+            "count": 0
+        },
+        "descriptions": {
+            "short": null
+        },
+        "images": {
+            "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/b100f650-f6f3-4c1c-b6d0-da8110d8975d.jpg"
+        },
+        "names": {
+            "title": "Google - Pixel 10 Pro 128GB - Obsidian (AT&T)"
+        },
+        "prices": {
+            "regular": 1049.99,
+            "current": 1049.99
+        },
+        "links": {
+            "product": "https://api.bestbuy.com/v1/products/6645947.json?apiKey=***REMOVED***",
+            "web": "https://api.bestbuy.com/click/-/6645947/pdp",
+            "addToCart": "https://api.bestbuy.com/click/-/6645947/cart"
+        },
+        "rank": 8
+    },
+    {
+        "sku": "6643794",
+        "customerReviews": {
+            "averageScore": 0.0,
+            "count": 0
+        },
+        "descriptions": {
+            "short": null
+        },
+        "images": {
+            "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/a17317de-2efa-4f54-9793-87e1888cceea.jpg"
+        },
+        "names": {
+            "title": "Google - Pixel 10 128GB (Verizon) - Obsidian"
+        },
+        "prices": {
+            "regular": 799.99,
+            "current": 799.99
+        },
+        "links": {
+            "product": "https://api.bestbuy.com/v1/products/6643794.json?apiKey=***REMOVED***",
+            "web": "https://api.bestbuy.com/click/-/6643794/pdp",
+            "addToCart": "https://api.bestbuy.com/click/-/6643794/cart"
+        },
+        "rank": 9
+    },
+    {
+        "sku": "6418061",
+        "customerReviews": {
+            "averageScore": 4.9,
+            "count": 46
+        },
+        "descriptions": {
+            "short": null
+        },
+        "images": {
+            "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/089ca27b-2d32-4acf-813c-c392439f3e78.jpg"
+        },
+        "names": {
+            "title": "Apple - iPhone 17 Pro 256GB - Silver (AT&T)"
+        },
+        "prices": {
+            "regular": 1099.99,
+            "current": 1099.99
+        },
+        "links": {
+            "product": "https://api.bestbuy.com/v1/products/6418061.json?apiKey=***REMOVED***",
+            "web": "https://api.bestbuy.com/click/-/6418061/pdp",
+            "addToCart": "https://api.bestbuy.com/click/-/6418061/cart"
+        },
+        "rank": 10
+    },
+    {
+        "sku": "6565862",
+        "customerReviews": {
+            "averageScore": 4.9,
+            "count": 4103
+        },
+        "descriptions": {
+            "short": null
+        },
+        "images": {
+            "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/317b99e1-058d-4162-88c9-051faf76b924.jpg"
+        },
+        "names": {
+            "title": "Apple - MacBook Air 13-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 256GB SSD - Midnight"
+        },
+        "prices": {
+            "regular": 999.0,
+            "current": 799.0
+        },
+        "links": {
+            "product": "https://api.bestbuy.com/v1/products/6565862.json?apiKey=***REMOVED***",
+            "web": "https://api.bestbuy.com/click/-/6565862/pdp",
+            "addToCart": "https://api.bestbuy.com/click/-/6565862/cart"
+        },
+        "rank": 1
+    },
+    {
+        "sku": "6637409",
+        "customerReviews": {
+            "averageScore": 4.7,
+            "count": 196
+        },
+        "descriptions": {
+            "short": null
+        },
+        "images": {
+            "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/65e71144-6e18-45bd-9181-47696a31d059.jpg"
+        },
+        "names": {
+            "title": "HP - 15.6\" Laptop - Intel Core i3 - 8GB Memory - 128GB UFS - Natural Silver"
+        },
+        "prices": {
+            "regular": 499.99,
+            "current": 219.99
+        },
+        "links": {
+            "product": "https://api.bestbuy.com/v1/products/6637409.json?apiKey=***REMOVED***",
+            "web": "https://api.bestbuy.com/click/-/6637409/pdp",
+            "addToCart": "https://api.bestbuy.com/click/-/6637409/cart"
+        },
+        "rank": 2
+    },
+    {
+        "sku": "6612253",
+        "customerReviews": {
+            "averageScore": 4.6,
+            "count": 1137
+        },
+        "descriptions": {
+            "short": null
+        },
+        "images": {
+            "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/35568c16-fd80-4de7-9c3c-dc65b09f8e4f.jpg"
+        },
+        "names": {
+            "title": "HP - 15.6\" Full HD Touch-Screen Laptop - Intel Core i7 - 16GB Memory - 512GB SSD - Natural Silver"
+        },
+        "prices": {
+            "regular": 799.99,
+            "current": 499.99
+        },
+        "links": {
+            "product": "https://api.bestbuy.com/v1/products/6612253.json?apiKey=***REMOVED***",
+            "web": "https://api.bestbuy.com/click/-/6612253/pdp",
+            "addToCart": "https://api.bestbuy.com/click/-/6612253/cart"
+        },
+        "rank": 3
+    },
+    {
+        "sku": "6642211",
+        "customerReviews": {
+            "averageScore": 0.0,
+            "count": 0
+        },
+        "descriptions": {
+            "short": null
+        },
+        "images": {
+            "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/122add69-6dbc-4884-9b7a-3a14a7cb9186.jpg"
+        },
+        "names": {
+            "title": "Dell - DC15250 - 15.6\" 2K Touchscreen Laptop - Intel Core i5 1334U 2023 - 8GB Memory - 512GB Storage - Carbon Black"
+        },
+        "prices": {
+            "regular": 629.99,
+            "current": 379.99
+        },
+        "links": {
+            "product": "https://api.bestbuy.com/v1/products/6642211.json?apiKey=***REMOVED***",
+            "web": "https://api.bestbuy.com/click/-/6642211/pdp",
+            "addToCart": "https://api.bestbuy.com/click/-/6642211/cart"
+        },
+        "rank": 4
+    },
+    {
+        "sku": "6612252",
+        "customerReviews": {
+            "averageScore": 4.6,
+            "count": 809
+        },
+        "descriptions": {
+            "short": null
+        },
+        "images": {
+            "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/6d1821a7-6381-429b-8ac5-bb6dc2bf284d.jpg"
+        },
+        "names": {
+            "title": "HP - 17.3\" Full HD Laptop - AMD Ryzen 5 - 8GB Memory - 512GB SSD - Natural Silver"
+        },
+        "prices": {
+            "regular": 629.99,
+            "current": 319.99
+        },
+        "links": {
+            "product": "https://api.bestbuy.com/v1/products/6612252.json?apiKey=***REMOVED***",
+            "web": "https://api.bestbuy.com/click/-/6612252/pdp",
+            "addToCart": "https://api.bestbuy.com/click/-/6612252/cart"
+        },
+        "rank": 5
+    },
+    {
+        "sku": "6634397",
+        "customerReviews": {
+            "averageScore": 4.8,
+            "count": 92
+        },
+        "descriptions": {
+            "short": null
+        },
+        "images": {
+            "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/67497159-188f-409b-91a7-a49a325a90f6.png"
+        },
+        "names": {
+            "title": "HP - OmniBook X Flip - Copilot+ PC - 16\" 3K OLED Touch-Screen Laptop - Intel Core Ultra 9 - 32GB Memory - 2TB SSD - Eclipse Gray"
+        },
+        "prices": {
+            "regular": 1529.99,
+            "current": 999.99
+        },
+        "links": {
+            "product": "https://api.bestbuy.com/v1/products/6634397.json?apiKey=***REMOVED***",
+            "web": "https://api.bestbuy.com/click/-/6634397/pdp",
+            "addToCart": "https://api.bestbuy.com/click/-/6634397/cart"
+        },
+        "rank": 6
+    },
+    {
+        "sku": "6614950",
+        "customerReviews": {
+            "averageScore": 4.6,
+            "count": 262
+        },
+        "descriptions": {
+            "short": null
+        },
+        "images": {
+            "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/c9d78a66-050b-46e7-8c3c-45813b80914e.jpg"
+        },
+        "names": {
+            "title": "Acer - Chromebook 315 - 15.6\" Full HD Laptop - Intel Celeron N4500 - 4GB LPDDR4X - 64GB eMMC - Protective Sleeve \u2013 Silver - Sparkly Silver"
+        },
+        "prices": {
+            "regular": 299.0,
+            "current": 119.0
+        },
+        "links": {
+            "product": "https://api.bestbuy.com/v1/products/6614950.json?apiKey=***REMOVED***",
+            "web": "https://api.bestbuy.com/click/-/6614950/pdp",
+            "addToCart": "https://api.bestbuy.com/click/-/6614950/cart"
+        },
+        "rank": 7
+    },
+    {
+        "sku": "6614107",
+        "customerReviews": {
+            "averageScore": 4.8,
+            "count": 265
+        },
+        "descriptions": {
+            "short": null
+        },
+        "images": {
+            "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/d2627df5-df42-4337-8832-b8b7d18a923a.png"
+        },
+        "names": {
+            "title": "HP - OmniBook 5 Flip 2-in-1 14\" 2K Touch-Screen Laptop - Intel Core 7 - 16GB Memory - 512GB SSD - Glacier Silver"
+        },
+        "prices": {
+            "regular": 799.99,
+            "current": 529.99
+        },
+        "links": {
+            "product": "https://api.bestbuy.com/v1/products/6614107.json?apiKey=***REMOVED***",
+            "web": "https://api.bestbuy.com/click/-/6614107/pdp",
+            "addToCart": "https://api.bestbuy.com/click/-/6614107/cart"
+        },
+        "rank": 8
+    },
+    {
+        "sku": "6565869",
+        "customerReviews": {
+            "averageScore": 4.9,
+            "count": 1172
+        },
+        "descriptions": {
+            "short": null
+        },
+        "images": {
+            "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/01867ef7-bd07-4bce-81f9-c57533d8ed55.jpg"
+        },
+        "names": {
+            "title": "Apple - MacBook Air 15-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 256GB SSD - Midnight"
+        },
+        "prices": {
+            "regular": 1199.0,
+            "current": 999.0
+        },
+        "links": {
+            "product": "https://api.bestbuy.com/v1/products/6565869.json?apiKey=***REMOVED***",
+            "web": "https://api.bestbuy.com/click/-/6565869/pdp",
+            "addToCart": "https://api.bestbuy.com/click/-/6565869/cart"
+        },
+        "rank": 9
+    },
+    {
+        "sku": "6613870",
+        "customerReviews": {
+            "averageScore": 4.7,
+            "count": 358
+        },
+        "descriptions": {
+            "short": null
+        },
+        "images": {
+            "standard": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/9353af3d-f8f4-46f9-a48c-7c30116a9982.jpg"
+        },
+        "names": {
+            "title": "HP - OmniBook X Flip 2-in-1 - Copilot+ PC - 16\" 2K Touch-Screen Laptop - Intel Core Ultra 5 - 16GB Memory - 512GB SSD - Eclipse Gray"
+        },
+        "prices": {
+            "regular": 899.99,
+            "current": 579.99
+        },
+        "links": {
+            "product": "https://api.bestbuy.com/v1/products/6613870.json?apiKey=***REMOVED***",
+            "web": "https://api.bestbuy.com/click/-/6613870/pdp",
+            "addToCart": "https://api.bestbuy.com/click/-/6613870/cart"
+        },
+        "rank": 10
+    }
+]
