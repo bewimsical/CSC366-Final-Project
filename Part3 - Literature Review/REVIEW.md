@@ -1,10 +1,10 @@
 ### Brief Literature Review
 
 **Abstract**:<br/>
-The question we are exploring involves looking at tech products (specifically desktops, laptops, and phones) and seeing how user reviews affect their rankings as best selling products on the websites BestBuy.com and NewEgg.com. We wanted to focus on these products because in our research, most studies look into how user reviews impact things such as box office returns, camera sales, and more, but we did not see anything explicitly tracking these types of electronic devices.
+The question we are exploring involves looking at tech products (specifically desktops, laptops, and phones) and seeing if users are more likely to leave reviews after a positve or negative experince with a product on the websites BestBuy.com and NewEgg.com. We wanted to focus on these products because in our research, most studies look into how user reviews impact things such as box office returns, camera sales, and more, but we did not see anything explicitly tracking these types of electronic devices.
 
 **Literature Review**: <br/>
-The studies have varying opinions on this subject, certain groups argue user reviews depend on where the product is in its life cycle [1], some state that total user reviews are more important than the overall score of the user reviews (within reason) [2]. A few articles argue that user reviews do not influence just total sales but who is buying and how much they are buying [3-4]. One article’s message is that negative reviews are more effective than positive reviews when influencing a consumer's opinion [5]. We are exploring this topic using our data to see which (if any) of these outlooks best matches what we came across in our research.
+The studies have varying opinions on this subject, certain groups argue user reviews depend on where the product is in its life cycle [1], some state that total user reviews are more important than the overall score of the user reviews (within reason) [2]. A few articles argue that user reviews influence mainly who is buying and how much they are buying [3-4]. One article’s message is that negative reviews are more effective than positive reviews when influencing a consumer's opinion [5]. We are exploring this topic using our data to see which (if any) of these outlooks best matches what we came across in our research.
 
 
 ### Bibliography
